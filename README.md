@@ -5,7 +5,7 @@ this repo holds some drivers im planning/working on/finished. these are made for
 - minifilter driver for protecting the system:
 1) read hook to protect from disclosed information disclosure both in file access and in sensitive content. also worked
    on irreversible conversion of data to prevent read (can be improved for specific uses)
-2) write/cleanup/create protections (WORKING)
+2) write/cleanup/create protections (FINISHED)
 
 - ETW driver to protect the system and log different events like context switches or file operations (FUTURE)
 - ETW driver to attack the mechanism as some sort of virus (FUTURE)
